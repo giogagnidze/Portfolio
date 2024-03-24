@@ -490,6 +490,7 @@ a{
     flex-direction: row;
     padding: 100px 0px 0px 0px;
     justify-content: space-around;
+    flex-wrap: wrap;
     
 }
 .service:hover{
@@ -549,4 +550,15 @@ a{
     text-align: center;
     font-size: 20px;
     font-weight: bold;
+}
+@media (max-width: 480px) {
+    #name{
+        margin-left: 50%;
+        font-size: 15px;
+    }
+    #navul{
+        margin-top: 200px;
+        text-align: center;
+        margin-left: -700px;
+    }
 }
