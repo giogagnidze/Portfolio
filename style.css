@@ -490,6 +490,7 @@ a{
     flex-direction: row;
     padding: 100px 0px 0px 0px;
     justify-content: space-around;
+    
 }
 .service:hover{
     transform: scale(1.05);    
@@ -513,11 +514,13 @@ a{
 .service h1{
     text-align: center;
     font-size: 30px;
+    user-select: none;
 }
 .service p{
     padding: 20px 0px 0px 0px;
     text-align: center;
     max-width: 330px;
+    user-select: none;
 }
 .service button{
     margin-left: 90px;
@@ -532,6 +535,14 @@ a{
     display: inline-block;
     font-size: 18px;
     transition: 0.5s;
+    cursor: pointer;
+}
+.service button:hover{
+    transform: scale(1.05);
+    box-shadow:
+    0 0 5px rgb(0, 212, 227),
+    0 0 6px rgb(0, 212, 227),
+    0 0 7px rgb(0, 212, 227);
 }
 .service_name{
     margin-top: 100px ;
