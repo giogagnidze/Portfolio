@@ -553,12 +553,13 @@ a{
 }
 @media (max-width: 480px) {
     #name{
-        margin-left: 50%;
+        margin-left: 190px;
         font-size: 15px;
     }
     #navul{
         margin-top: 200px;
         text-align: center;
-        margin-left: -700px;
+        font-size: small;
+        margin-left: -800px;
     }
 }
