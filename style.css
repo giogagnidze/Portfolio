@@ -381,10 +381,10 @@ h1{
     left: 0;
     width: 32px;
     height: 6px;
-    background: rgb(0, 212, 227);
+    background-color: rgb(24, 26, 27);
     border-radius: 8px;
     transform-origin: 128px;
-    transform: scale(2.2) rotate(calc(var(--i) * (360deg / 50)));
+    transform: scale(2.2) rotate(calc(var(360deg / 50)));
 }
 .login-box {
     position: absolute;
@@ -417,6 +417,7 @@ h1{
 .input-box label {
     position: absolute;
     top: 50%;
+    background-color: rgb(24, 26, 27);
     left: 20px;
     transform: translateY(-50%);
     font-size: 1em;
@@ -428,7 +429,6 @@ h1{
 .input-box input:valid~label {
     top: 1px;
     font-size: .8em;
-    background: #121212;
     padding: 0 6px;
 }
 .btn:hover{
