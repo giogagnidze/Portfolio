@@ -7,7 +7,7 @@ body{
 
 #name{
     margin-top: 5px;
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
     margin-left: 130px;
     font-size: 35px;
     font-weight: 550;
@@ -15,9 +15,9 @@ body{
 }
 .header{
     box-shadow:
-    0 0 10px rgb(94, 0, 152),
-    0 0 20px rgb(94, 0, 152),
-    0 0 60px rgb(94, 0, 152);
+    0 0 10px rgb(0, 238, 255),
+    0 0 20px rgb(0, 238, 255),
+    0 0 60px rgb(0, 238, 255);
 }
 #name:hover{
     cursor: pointer;
@@ -29,25 +29,25 @@ body{
     transition: 0.5s;
 }
 #navul ul li a:hover{
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
 }
 #myli1{
     margin-left: 950px;
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
     margin-top: -65px;
 }
 #myli2{
     margin-left: 1030px;
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
     margin-top: -21px;
 }
 #myli3{
     margin-left: 1140px;
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
     margin-top: -21px;
 }
 #myli4{
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
     margin-left: 1200px;
     margin-top: -21px;
 }
@@ -64,7 +64,7 @@ body{
     padding: 0;
 }
 b{
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
 }
 #myimage{
     margin-left: 850px;
@@ -73,12 +73,12 @@ b{
 }
 
 #broderedimage{
-    border: 4px solid rgb(94, 0, 152);
+    border: 4px solid rgb(0, 238, 255);
     border-radius: 50%;
     box-shadow:
-    0 0 10px rgb(94, 0, 152),
-    0 0 20px rgb(94, 0, 152),
-    0 0 60px rgb(94, 0, 152);
+    0 0 10px rgb(0, 238, 255),
+    0 0 20px rgb(0, 238, 255),
+    0 0 60px rgb(0, 238, 255);
 }
 a:hover{
     color: rgb(0, 0, 0);
@@ -121,8 +121,8 @@ a{
     margin-top: -300px;
     border: 2px solid;
     margin-left: -330px;
-    background-color: rgb(94, 0, 152);
-    border-color: rgb(94, 0, 152);
+    background-color: rgb(0, 238, 255);
+    border-color: rgb(0, 238, 255);
     border-width: 3px;
     color: white;
     padding: 15px 32px;
@@ -141,12 +141,12 @@ a{
     0 0 60px rgb(77, 77, 77);
 }
 #a-primary:hover{
-    border-color: rgb(94, 0, 152);
+    border-color: rgb(0, 238, 255);
     transform: scale(1.07);
     box-shadow:
-    0 0 10px rgb(94, 0, 152),
-    0 0 20px rgb(94, 0, 152),
-    0 0 60px rgb(94, 0, 152);
+    0 0 10px rgb(0, 238, 255),
+    0 0 20px rgb(0, 238, 255),
+    0 0 60px rgb(0, 238, 255);
 } 
 #copy{
     text-align: center;
@@ -189,7 +189,7 @@ p{
     flex-shrink: 0;
 }
 span{
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
 }
 html{
     scroll-behavior: smooth;
@@ -205,9 +205,9 @@ html{
     border-radius: 50%;
     margin-top: 40px;
     box-shadow:
-    0 0 10px rgb(94, 0, 152),
-    0 0 20px rgb(94, 0, 152),
-    0 0 30px rgb(94, 0, 152);
+    0 0 10px rgb(0, 238, 255),
+    0 0 20px rgb(0, 238, 255),
+    0 0 30px rgb(0, 238, 255);
 }
 #myname{
     text-align: center;
@@ -224,8 +224,8 @@ html{
     margin-left: 680px;
     border-radius: 5px;
     border: 2px solid;
-    background-color: rgb(94, 0, 152);
-    border-color: rgb(94, 0, 152);
+    background-color: rgb(0, 238, 255);
+    border-color: rgb(0, 238, 255);
     border-width: 3px;
     color: white;
     padding: 13px 30px;
@@ -351,17 +351,17 @@ h1{
     background: #282828;
     padding: 4px;
     box-sizing: border-box;
-    border: 1px solid rgb(94, 0, 152);
+    border: 1px solid rgb(0, 238, 255);
     border-radius: 2px;
 }
 .skill_level{
-    background: rgb(94, 0, 152);
+    background: rgb(0, 238, 255);
     width: 100%;
     height: 10px;
     box-shadow:
-    0 0 10px rgb(94, 0, 152),
-    0 0 15px rgb(94, 0, 152),
-    0 0 20px rgb(94, 0, 152);
+    0 0 10px rgb(0, 238, 255),
+    0 0 15px rgb(0, 238, 255),
+    0 0 20px rgb(0, 238, 255);
 }
 #footerhr{
     margin-top: 300px;
@@ -402,7 +402,7 @@ h1{
     width: 100%;
     height: 50px;
     background: transparent;
-    border: 2px solid rgb(94, 0, 152);
+    border: 2px solid rgb(0, 238, 255);
     outline: none;
     border-radius: 8px;
     font-size: 1em;
@@ -412,7 +412,7 @@ h1{
 }
 .input-box input:focus,
 .input-box input:valid {
-    border-color: rgb(94, 0, 152);
+    border-color: rgb(0, 238, 255);
 }
 .input-box label {
     position: absolute;
@@ -434,9 +434,9 @@ h1{
 .btn:hover{
     transform: scale(1.07);
     box-shadow:
-    0 0 10px rgb(94, 0, 152),
-    0 0 20px rgb(94, 0, 152),
-    0 0 60px rgb(94, 0, 152);
+    0 0 10px rgb(0, 238, 255),
+    0 0 20px rgb(0, 238, 255),
+    0 0 60px rgb(0, 238, 255);
 }
 
 .btn {
@@ -450,12 +450,12 @@ h1{
     font-weight: 600;
     margin-left: 25px;
     color: black;
-    background-color: rgb(94, 0, 152);
+    background-color: rgb(0, 238, 255);
     transition: 0.5s;
 }
 .signup-link a {
     font-size: 1em;
-    color: rgb(94, 0, 152);
+    color: rgb(0, 238, 255);
     text-decoration: none;
     font-weight: 600;
 }
@@ -496,12 +496,12 @@ a{
 .service:hover{
     transform: scale(1.05);    
     box-shadow:
-    0 0 15px rgb(94, 0, 152),
-    0 0 16px rgb(94, 0, 152),
-    0 0 17px rgb(94, 0, 152);
+    0 0 15px rgb(0, 238, 255),
+    0 0 16px rgb(0, 238, 255),
+    0 0 17px rgb(0, 238, 255);
 }
 .service{
-    border: 1px solid rgb(94, 0, 152);
+    border: 1px solid rgb(0, 238, 255);
     cursor: pointer;
     width: 350px;
     height: 350px;
@@ -509,9 +509,9 @@ a{
     border-radius: 25px;
     transition: 0.5s;
     box-shadow:
-    0 0 5px rgb(94, 0, 152),
-    0 0 6px rgb(94, 0, 152),
-    0 0 7px rgb(94, 0, 152);
+    0 0 5px rgb(0, 238, 255),
+    0 0 6px rgb(0, 238, 255),
+    0 0 7px rgb(0, 238, 255);
 }
 .service h1{
     text-align: center;
@@ -528,8 +528,8 @@ a{
     margin-left: 90px;
     border-radius: 25px;
     border: 2px solid;
-    background-color: rgb(94, 0, 152);
-    border-color: rgb(94, 0, 152);
+    background-color: rgb(0, 238, 255);
+    border-color: rgb(0, 238, 255);
     border-width: 3px;
     color: white;
     padding: 10px 27px;
@@ -542,9 +542,9 @@ a{
 .service button:hover{
     transform: scale(1.05);
     box-shadow:
-    0 0 5px rgb(94, 0, 152),
-    0 0 6px rgb(94, 0, 152),
-    0 0 7px rgb(94, 0, 152);
+    0 0 5px rgb(0, 238, 255),
+    0 0 6px rgb(0, 238, 255),
+    0 0 7px rgb(0, 238, 255);
 }
 .service_name{
     margin-top: 100px ;
