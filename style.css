@@ -31,26 +31,16 @@ body{
 #navul ul li a:hover{
     color: rgb(0, 238, 255);
 }
-#myli1{
-    margin-left: 950px;
-    color: rgb(0, 238, 255);
-    margin-top: -65px;
+#navul ul{
+    margin-top: -60px;
+    padding: 0px 100px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    flex-wrap: wrap;
+    gap: 40px;
 }
-#myli2{
-    margin-left: 1030px;
-    color: rgb(0, 238, 255);
-    margin-top: -21px;
-}
-#myli3{
-    margin-left: 1140px;
-    color: rgb(0, 238, 255);
-    margin-top: -21px;
-}
-#myli4{
-    color: rgb(0, 238, 255);
-    margin-left: 1200px;
-    margin-top: -21px;
-}
+
 #cse{
     margin-top: -15px;
     margin-left: 130px;
@@ -195,8 +185,6 @@ html{
     scroll-behavior: smooth;
 }
 #am{
-    padding: 20px;
-    margin-top: 100px;
     text-align: center;
     font-size: 45px;
 }
