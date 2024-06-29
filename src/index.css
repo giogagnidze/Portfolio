@@ -91,9 +91,9 @@ header{
         font-size: 20px;
     }
 }
-@media (max-width: 325px){
+@media (max-width: 364px){
     .logo1{
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
