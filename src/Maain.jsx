@@ -207,19 +207,6 @@ function Main() {
                   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer"><i className="fab fa-google"></i></a>
                 </div>
               </div>
-              <div className="col-md-6 text-center">
-                <div className="footer-social">
-                  <nav>
-                    <ul className="list-unstyled d-flex justify-content-center justify-content-md-end mb-0">
-                      <li className="lg-3"><a href="#home">Home</a></li>
-                      <li className="lg-3"><a href="#about">About</a></li>
-                      <li className="lg-3"><a href="#service">Services</a></li>
-                      <li className="lg-3"><a href="#skill">Skills</a></li>
-                      <li className="lg-3"><a href="#contact">Contact</a></li>
-                    </ul>
-                  </nav>
-                </div>
-              </div>
             </div>
             <div className="row mt-3">
               <div className="col-md-6 text-center mb-3 mb-md-0">

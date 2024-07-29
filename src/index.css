@@ -10,15 +10,15 @@
     background-color: rgb(32, 32, 32);
 }
 b{
-    color: rgb(0, 238, 255);
+    color: #9900ff;
 }
 
 .bold{
-    color: rgb(0, 238, 255);
+    color: #9900ff;
     text-shadow:
-    0 0 10px rgb(0, 238, 255),
-    0 0 20px rgb(0, 238, 255),
-    0 0 60px rgb(0, 238, 255);
+    0 0 10px #9900ff,
+    0 0 20px #9900ff,
+    0 0 60px #9900ff;
 }
 header{
     position: fixed;
@@ -36,7 +36,7 @@ header{
     transition: 0.4s;
 }
 .nav-link a:hover{
-    color: rgb(0, 238, 255);
+    color: #9900ff;
     transform: scale(1.05);
 }
 
@@ -133,7 +133,12 @@ header{
 .social a:hover{
     transform: scale(1.20);
     background-color: white;
-    color: rgb(0, 238, 255);
+}
+.social i{
+    transition: 0.5s;   
+}
+.social i:hover{
+    color: #9900ff;
 }
 .lorem{
     text-align: center;
@@ -147,9 +152,9 @@ html{
 }
 .read-more button{
     padding: 13px 30px;
-    background-color: rgb(0, 238, 255);
+    background-color: #9900ff;
     border-radius: 5px;
-    border: 2px solid rgb(0, 238, 255);
+    border: 2px solid #9900ff;
     transition: 0.5s;
 }
 .read-more button:hover{
@@ -160,22 +165,22 @@ html{
 .service {
     width: 100%;
     max-width: 330px;
-    border: 1px solid rgb(0, 238, 255);
+    border: 1px solid #9900ff;
     padding: 20px;
     border-radius: 25px;
     transition: 0.5s;
     box-shadow:
-    0 0 5px rgb(0, 238, 255),
-    0 0 6px rgb(0, 238, 255),
-    0 0 7px rgb(0, 238, 255);
+    0 0 5px #9900ff,
+    0 0 6px #9900ff,
+    0 0 7px #9900ff;
 }
 
 .service:hover {
     transform: scale(1.05);
     box-shadow:
-    0 0 15px rgb(0, 238, 255),
-    0 0 16px rgb(0, 238, 255),
-    0 0 17px rgb(0, 238, 255);
+    0 0 15px #9900ff,
+    0 0 16px #9900ff,
+    0 0 17px #9900ff;
 }
 
 .service h1 {
@@ -184,8 +189,8 @@ html{
 
 .service button {
     border-radius: 25px;
-    border: 2px solid rgb(0, 238, 255);
-    background-color: rgb(0, 238, 255);
+    border: 2px solid #9900ff;
+    background-color: #9900ff;
     color: white;
     padding: 10px 27px;
     font-size: 18px;
@@ -198,9 +203,9 @@ html{
 .service button:hover {
     transform: scale(1.05);
     box-shadow:
-    0 0 5px rgb(0, 238, 255),
-    0 0 6px rgb(0, 238, 255),
-    0 0 7px rgb(0, 238, 255);
+    0 0 5px #9900ff,
+    0 0 6px #9900ff,
+    0 0 7px #9900ff;
 }
 
 
@@ -219,8 +224,7 @@ html{
     width: 100%;
     margin: 20px 0;
     padding: 20px;
-
-    border: 1px solid rgb(0, 238, 255);
+    border: 1px solid #9900ff;
     border-radius: 5px;
 }
 
@@ -242,12 +246,12 @@ html{
 .skill {
     padding: 4px;
     box-sizing: border-box;
-    border: 1px solid rgb(0, 238, 255);
+    border: 1px solid #9900ff;
     border-radius: 2px;
 }
 
 .skill_level {
-    background: rgb(0, 238, 255);
+    background: #9900ff;
     height: 10px;
 }
 
@@ -276,7 +280,7 @@ html{
     width: 100%;
     height: 50px; 
     background: transparent;
-    border: 2px solid rgb(0, 238, 255);
+    border: 2px solid #9900ff;
     outline: none;
     border-radius: 8px;
     font-size: 1em;
@@ -309,7 +313,7 @@ html{
 }
 
 .form-btn{
-    background-color: rgb(0, 238, 255);
+    background-color: #9900ff;
     border-radius: 10px;
     border: none;
     height: 40px;
@@ -373,12 +377,12 @@ footer {
     width: 12px;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: aqua;
+    background-color: #9900ff;
     border-radius: 6px;
     transition: 0.5s;
 } 
 ::-webkit-scrollbar-thumb:hover{
-    background-color: rgb(0, 222, 222);
+    background-color: #9900ff;
 }
 @media (max-width: 575px){
     *{
